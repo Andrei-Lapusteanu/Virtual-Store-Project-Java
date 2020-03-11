@@ -1,0 +1,5 @@
+Televizor
+Electronice
+3000.0
+-4
+Televizor_diagonala_120cm

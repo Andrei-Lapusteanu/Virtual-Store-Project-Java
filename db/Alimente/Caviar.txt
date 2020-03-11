@@ -1,0 +1,5 @@
+Caviar
+Alimente
+299.0
+10
+Pret_pe_kg

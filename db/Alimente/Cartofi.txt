@@ -1,0 +1,5 @@
+Cartofi
+Alimente
+1.0
+200
+Pret_pe_kg

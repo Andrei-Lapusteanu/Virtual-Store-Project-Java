@@ -1,0 +1,23 @@
+Boxe Electronice 220.0 1 Stereo_2x20W
+Boxe Electronice 220.0 1 Stereo_2x20W
+Boxe Electronice 220.0 1 Stereo_2x20W
+Procesor Electronice 1599.0 1 Intel_i7_6700k
+Laptop Electronice 2000.0 1 Laptop_Asus_i-3_2.0GHz_4Gb_RAM
+Laptop Electronice 2000.0 1 Laptop_Asus_i-3_2.0GHz_4Gb_RAM
+Procesor Electronice 1599.0 1 Intel_i7_6700k
+Procesor Electronice 1599.0 7 Intel_i7_6700k
+Ghete Imbracaminte 89.0 1 Ghete_sport_cauciucate
+Blugi Imbracaminte 99.0 1 Negri_Largi
+
+Tastatura Electronice 199.0 1 Gaming
+Frigider_cu_congelator Electronice 900.0 1 Mare_si_rece
+Hanorac Imbracaminte 79.0 1 Albastru,_marimi_XS-M-L-XL-XXL
+Blugi Imbracaminte 99.0 1 Negri_Largi
+Surse Electronice 370.0 6 Corsair_550W
+Surse Electronice 370.0 1 Corsair_550W
+Televizor Electronice 3000.0 1 Televizor_diagonala_120cm
+Televizor Electronice 3000.0 4 Televizor_diagonala_120cm
+Televizor Electronice 3000.0 8 Televizor_diagonala_120cm
+Varza Alimente 0.8 1 Pret_pe_kg
+Tricou Imbracaminte 35.0 1 Tricou_diferite_modele
+Tricou Imbracaminte 35.0 1 Tricou_diferite_modele

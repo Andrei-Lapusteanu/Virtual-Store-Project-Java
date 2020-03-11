@@ -1,0 +1,5 @@
+Boxe
+Electronice
+220.0
+12
+Stereo_2x20W
