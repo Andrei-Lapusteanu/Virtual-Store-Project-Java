@@ -5,6 +5,7 @@
  The project represents a simple simulation of an online store
  
 <a href="https://imgur.com/stFDy4R"><img src="https://i.imgur.com/stFDy4R.png" title="source: imgur.com" /></a>
+
 *Login UI*
 
 <a href="https://imgur.com/xnBxeul"><img src="https://i.imgur.com/xnBxeul.png" title="source: imgur.com" /></a>
@@ -28,5 +29,5 @@ It is capable of displaying information for 4 different types of users:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIxNDA4OCwxNjcxMTk2Mjk4XX0=
+eyJoaXN0b3J5IjpbLTEwOTEwMjg4MjYsMTY3MTE5NjI5OF19
 -->
